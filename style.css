@@ -9,6 +9,7 @@ body {
     min-height: 100vh;
     display: grid;
     place-items: center;
+    margin: 3rem 0rem;
 }
 
 .container {
@@ -28,7 +29,7 @@ body {
 
 .text-wrapper {
     text-align: center;
-    padding: 1.25rem 1rem;
+    padding: 1.25rem 0.5rem;
 }
 
 h1 {
